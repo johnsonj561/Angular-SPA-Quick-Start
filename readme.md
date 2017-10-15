@@ -38,6 +38,8 @@ package.json
 - Bootstrap 3.3.7
 
 ### Instructions
-1. Download repository
-2. Install dependences: ```npm install```
-3. Start Server: ```npm run start```
+1. Download repository to local machine
+2. Install dependences: 
+Run from project root directory ```npm install```
+3. Start Server: 
+Run from project root directory ```npm run start```
