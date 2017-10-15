@@ -1,8 +1,8 @@
 ## Quick Start: AngularJS SPA and NodeJS
 
-Jump start AngularJS single page application running on NodeJS server  
+This repository was created with the intention of simplifying the start up time of a AngularJS single page application running on NodeJS server.
 
-Project was initialized through the use of [Express Generator]  
+Project was initialized through the use of [Express Generator].  
 
 After running express generator, changes were made to implement Angular SPA, resulting in the following file structure:
 
@@ -49,8 +49,15 @@ package.json
 Run from project root directory ```npm install```
 3. Start Server: 
 Run from project root directory ```npm run start```
+4. Point browser to localhost:3000
 
 -----
+
+### Future Improvements
+- improve organization of vendor files
+- add Grunt tasks for concatination and 
+- add unit testing
+
 
 
 
