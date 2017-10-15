@@ -55,7 +55,7 @@ Run from project root directory ```npm run start```
 
 ### Future Improvements
 - improve organization of vendor files
-- add Grunt tasks for concatination and 
+- add Grunt tasks for concatination/minification 
 - add unit testing
 
 
