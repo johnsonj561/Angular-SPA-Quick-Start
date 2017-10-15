@@ -1,33 +1,33 @@
-## AngularJS SPA and NodeJS Template
+## Quick Start: AngularJS SPA and NodeJS
 
 Jump start AngularJS single page application running on NodeJS server  
 
 ```
 app.js
 routes/
--- api.js
+--- api.js
 bin/
--- www
+--- www
 public/
---app/
----- app.js
----- controllers/
------- controller.js
----- directives/
------- directive.js
----- services/
------- service.js
----- views/
------- index.html
------- templates/
--------- template.tpl.html
--- js/
----- custom.js
--- styles/
----- custom.css
--- vendor/
----- angular-1.6.6/
----- bootstrap-3.3.7/
+--- app/
+------ app.js
+------ controllers/
+--------- controller.js
+------ directives/
+--------- directive.js
+------ services/
+--------- service.js
+------ views/
+--------- index.html
+--------- templates/
+------------ template.tpl.html
+--- js/
+------ custom.js
+--- styles/
+------ custom.css
+--- vendor/
+------ angular-1.6.6/
+------ bootstrap-3.3.7/
 package.json
 ```
 
